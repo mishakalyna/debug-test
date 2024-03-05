@@ -1,0 +1,13 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "gulfstream_logistics",
+            "package_name": "com.gulfstream.logistics",
+            "sha256_cert_fingerprints":
+            [
+                "27:DF:54:30:71:04:18:D9:91:54:34:7A:00:68:4C:B7:89:34:A0:01:AC:D7:EB:3B:31:3E:DB:2D:FB:53:B5:9A"
+            ]
+        }
+    }
+]
